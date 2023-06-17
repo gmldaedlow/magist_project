@@ -1,4 +1,4 @@
-# Magist Project
+# Magist Project (SQL)
 This is the first project in WBS data science bootcamp.
 The scope of the project was to investigate whether Eniac, an online marketplace specialized in high-end tech products, should invest in expanding to the Brazilian market via Magist, a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces.
 
